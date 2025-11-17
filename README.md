@@ -7,6 +7,6 @@
 
 • 🔍 Atualmente estudando sobre Flutter e Animação Gráfica.
 
-<a href="edilayneramos23@gmail.com">
+<a href="mailto:edilayneramos23@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
